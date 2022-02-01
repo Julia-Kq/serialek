@@ -5,5 +5,13 @@ body
 }
 a:link
 {
-   color:yellow;
+   color:red;
+}
+a:visited
+{
+   color:red;
+}
+a:hover
+{
+   color:black;
 }
